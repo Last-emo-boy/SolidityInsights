@@ -34,7 +34,7 @@ cd w33d-repository docsify serve
 
 ## 贡献
 
-我们欢迎任何形式的贡献，无论是修复错误、添加新内容，还是提出建议。请通过创建 [GitHub issues](https://github.com/your-username/w33d-repository/issues) 或提交 [Pull Requests](https://github.com/your-username/w33d-repository/pulls) 来参与项目。
+我们欢迎任何形式的贡献，无论是修复错误、添加新内容，还是提出建议。请通过创建 [GitHub issues](https://github.com/C4id0g/SolidityInsights/issues) 或提交 [Pull Requests](https://github.com/C4id0g/SolidityInsights/pulls) 来参与项目。
 
 ## 许可证
 
