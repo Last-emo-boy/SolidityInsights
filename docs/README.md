@@ -1,5 +1,3 @@
-# About This
-
 # W33D Repository（Solidity合约学习库）
 
 欢迎来到W33D Repository！这是一个关于Solidity智能合约的学习库，旨在分享我对于Solidity合约的知识和理解，通过阅读和分析OpenZeppelin的合约来不断完善和丰富这个学习库。虽然本项目的专业性可能不强，但目的更多是为了自我学习和分享知识。
