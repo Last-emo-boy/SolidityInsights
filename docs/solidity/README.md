@@ -1,2 +1,4 @@
 # 如果你准备好了，那么就开始吧
-1. [最初的起点](./solidity/%E6%9C%80%E5%88%9D%E7%9A%84%E8%B5%B7%E7%82%B9.md)
+### 1. [最初的起点](./solidity/%E6%9C%80%E5%88%9D%E7%9A%84%E8%B5%B7%E7%82%B9.md)
+### 2. [关于智能合约](./solidity/2.关于智能合约.md)
+### 3. [Solidity语言](./solidity/3.Solidity语言.md)
