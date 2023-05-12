@@ -2,10 +2,6 @@
 
 欢迎来到W33D Repository！这是一个关于Solidity智能合约的学习库，旨在分享我对于Solidity合约的知识和理解，通过阅读和分析OpenZeppelin的合约来不断完善和丰富这个学习库。虽然本项目的专业性可能不强，但目的更多是为了自我学习和分享知识。
 
-## 目录
-
-1. [About Solidity](./solidity/)
-
 ## 如何使用
 
 这个学习库使用[docsify](https://docsify.js.org/)构建，你可以通过以下步骤来本地运行：

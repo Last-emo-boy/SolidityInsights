@@ -28,3 +28,4 @@
 #### 2.[AccessControlCrossChain](./openzeppelin/access/AccessControlCrossChain.md)
 #### 3.[AccessControlDefaultAdminRules](./openzeppelin/access/AccessControlDefaultAdminRules.md)
 #### 4.[AccessControlEnumerables](./openzeppelin/access/AccessControlEnumerable.md)
+#### 5.[IAccessControl](./openzeppelin/access/IAccessControl.md)
