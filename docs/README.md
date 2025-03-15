@@ -15,13 +15,13 @@ npm i docsify-cli -g`
 2. 克隆此仓库到本地：
 
 ```
-git clone https://github.com/your-username/w33d-repository.git
+git clone https://github.com/Last-emo-boy/SolidityInsights.git
 ```
 
 3. 进入项目目录并运行本地服务器：
 
 ```
-cd w33d-repository docsify serve
+cd SolidityInsights docsify serve
 ```
 
 4. 在浏览器中访问：`http://localhost:3000` 查看项目。
